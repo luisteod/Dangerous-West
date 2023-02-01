@@ -43,11 +43,11 @@ Execute o binário para rodar o jogo
 
 ###### Jogador 1
 
-`W`(pular) `A`(esquerda) `D`(direita) `ESPACE`(atira)
+`W`(pular) `A`(esquerda) `D`(direita) `SPACE`(atira)
 
 ###### Jogador 2
 
-:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita) :mouse:(atira)
+:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita) :trackball:(atira)
 
 
 
@@ -56,3 +56,5 @@ Execute o binário para rodar o jogo
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 [⬆ Voltar ao topo](#Dangerous-West)<br>
+
+:copyright: 2023 - Luis Henrique Teodoro
