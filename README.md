@@ -42,9 +42,9 @@ Execute o binário para rodar o jogo
 ## :video_game: Comandos do Jogo
 
 *Jogador 1
-```
+
 W(pular) A(esquerda) D(direita)
-```
+
 Jogador 2
 
 :arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita)
