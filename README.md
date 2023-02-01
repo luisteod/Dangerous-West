@@ -47,7 +47,7 @@ Execute o binário para rodar o jogo
 
 Jogador 2
 
-`:arrow_up:`(pular) `:arrow_left:`(esquerda) `:arrow_right:`(direita)
+:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita)
 
 
 
