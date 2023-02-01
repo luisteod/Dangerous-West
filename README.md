@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/languages/code-size/squire-tap/Dangerous-West)
 ![GitHub language count](https://img.shields.io/github/license/squire-tap/Dangerous-West)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="bin/assets/exemplo-imagem.png" alt="exemplo imagem">
 
 > Jogo de Plataforma desenvolvido em C++. Criado para ser jogado em dupla no mesmo dispositivo, tendo em vista que não possui um servidor para jogar online.
 
@@ -11,7 +11,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Maquina equipada com `Linux`.
+* Máquina equipada com `Linux`.
 * Ter o `Make` instalado na CLI.
 
 ## 🚀 Instalando Jogo
@@ -43,4 +43,4 @@ Execute o binário para rodar o jogo
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#Dangerous-West)<br>
