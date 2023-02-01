@@ -39,6 +39,18 @@ Execute o binário para rodar o jogo
 ./main
 ```
 
+## :video_game: Comandos do Jogo
+
+*Jogador 1
+```
+W(pular) A(esquerda) D(direita)
+```
+Jogador 2
+```
+:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita)
+``` 
+
+
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
