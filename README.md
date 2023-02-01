@@ -43,11 +43,11 @@ Execute o binário para rodar o jogo
 
 ###### Jogador 1
 
-`W`(pular) `A`(esquerda) `D`(direita)
+`W`(pular) `A`(esquerda) `D`(direita) `ESPACE`(atira)
 
 ###### Jogador 2
 
-:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita)
+:arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita) :mouse:(atira)
 
 
 
