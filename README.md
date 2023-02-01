@@ -45,7 +45,7 @@ Execute o binário para rodar o jogo
 
 `W`(pular) `A`(esquerda) `D`(direita)
 
-Jogador 2
+*Jogador 2
 
 :arrow_up:(pular) :arrow_left:(esquerda) :arrow_right:(direita)
 
